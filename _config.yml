@@ -1,11 +1,11 @@
 # Site settings
-author: Sha-jay Perry
-title: 
+author: Sha-Jay Perry
+title: Why did I decide to study Software Engineering?
 header-img: img/home-bg.png
 email: shajayjanae@gmail.com
-copyright_name: Sha-jay Perry
+copyright_name: Sha-Jay Perry
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ShajayPerry
